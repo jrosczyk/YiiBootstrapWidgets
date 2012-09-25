@@ -5,4 +5,4 @@ The aim of the project is to transform all bootstrap components into Yii Widgets
 
 Origins
 --
-This is based on set of widgets created by VisualAppeal GbR - www.visualappeal.de, see `LICENCSE` for more info.
+This is based on the set of widgets created by VisualAppeal GbR - www.visualappeal.de, see `LICENCSE` for more info.
