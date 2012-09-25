@@ -9,4 +9,4 @@ See `Wiki`
 
 Origins
 --
-This is based on the set of widgets created by VisualAppeal GbR - www.visualappeal.de, see `LICENCSE` for more info.
+This is based on the set of widgets created by VisualAppeal GbR, see `LICENCSE` for more info.
